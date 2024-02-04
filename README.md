@@ -1,4 +1,4 @@
-# Deadme Explicativo
+##Explicação
 
 Este é um código em Python que utiliza o framework Flask para criar uma API simples de sorteio. Aqui estão as principais partes do código:
 
