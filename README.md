@@ -23,7 +23,6 @@ contador_requisicoes = 0
 ## Função para Realizar o Sorteio
 ```python
 def realizar_sorteio():
-    # ...
 ```
 A função `realizar_sorteio` é responsável por realizar o sorteio. Se o número de requisições atingir um múltiplo de 1000, ela retorna três símbolos idênticos; caso contrário, retorna três símbolos diferentes.
 
